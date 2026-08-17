@@ -1,4 +1,4 @@
-# A. R. Ray
+# Alan Ray
 
 Back-end and data engineering - pipelines, storage, search. Recent CS graduate (Appalachian State, data science certificate),  based in Greenville, SC.
 
