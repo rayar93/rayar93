@@ -6,7 +6,7 @@ Back-end and data engineering - pipelines, storage, search. CS senior at Appalac
 
 ## Projects
 
-**[game-score-aggregator-cloud-run](https://github.com/rayar93/game-score-aggregator-cloud-run)** - Aggregates and normalizes critic and user scores from IGDB, Steam, and Metacritic into a single weighted ranking across 300,000+ titles. Handles rate limits and title reconciliation across sources with incompatible scales. Cloud Run over Cloud SQL Postgres, scheduled ingestion via Cloud Run Jobs and Cloud Scheduler. *Team project - CS 3537 Cloud Computing.*
+**[game-score-aggregator-cloud-run](https://github.com/rayar93/game-score-aggregator-cloud-run)** - Aggregates and normalizes critic and user scores from IGDB, Steam, and Metacritic into a single weighted ranking across 300,000+ titles. Handles rate limits and title reconciliation across sources with incompatible scales. Graded on Cloud Run over Cloud SQL Postgres with scheduled ingestion via Cloud Run Jobs and Cloud Scheduler. Rebuilt after the course to serve a small SQLite snapshot from one Cloud Run container, taking hosting from ~$1/day to effectively $0. *Team project - CS 3537 Cloud Computing.*
 
 **[dl-forecasting-classification-keras](https://github.com/rayar93/dl-forecasting-classification-keras)** - Two deep learning pipelines: bias correction of NOAA National Water Model streamflow forecasts (GRU, LSTM), and building damage classification from post-hurricane UAV imagery (MobileNet transfer learning). Reproducing the damage paper's methodology surfaced data leakage in its original evaluation split. *Team Project - CS 4440 Artificial Intelligence.*
 
