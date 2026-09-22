@@ -14,17 +14,7 @@ Back-end and data engineering - pipelines, storage, search. CS senior at Appalac
 
 **[asset-flip-game](https://github.com/rayar93/asset-flip-game)** - A 2D side-scrolling platformer in Godot 4. Real-time physics, state-driven enemy AI, and signal-driven event architecture across five playable levels. *Team Project - CS 4800 Capstone Project.*
 
-**[opencritic-scraper-analyzer](https://github.com/rayar93/opencritic-scraper-analyzer)** - Scrapes 10,000 OpenCritic titles and carries them through cleaning, exploration, and modeling in a single pipeline. Parses robots.txt at runtime and honors the published crawl-delay instead of hardcoding a rate. Percent-of-critics-recommend alone explains most of the critic score (R²=0.74); adding review count and release year moves it only to 0.75. Selenium, Protego, pandas, matplotlib, scikit-learn. Solo project - CS 3435 Data Collection and Visualization.
-
----
-
-## In progress
-
-Three pieces of the same system, built as separate services rather than one monolith:
-
-- **Timeline** - the past. Ingests a ~56 GB / 16k-file photo library plus journals and listening history into a searchable chronology. Local scan and perceptual-hash dedup, then multimodal embeddings for semantic search. SQLite locally, Vertex AI for enrichment.
-- **Task system** - the future. Structured to-dos with phase, cadence, and floor/ceiling logic. Has recipe and shoppling-list tool module.
-- **Recommender** - taste. Cross-category ratings for films, games, books, and shows, using preference in one category to inform suggestions in another. Feeds on a scraper module.
+**[opencritic-scraper-analyzer](https://github.com/rayar93/opencritic-scraper-analyzer)** - Scrapes 10,000 OpenCritic titles and carries them through cleaning, exploration, and modeling in a single pipeline. Parses robots.txt at runtime and honors the published crawl-delay instead of hardcoding a rate. Percent-of-critics-recommend alone explains most of the critic score (R²=0.74); adding review count and release year moves it only to 0.75. Selenium, Protego, pandas, matplotlib, scikit-learn. *Solo project - CS 3435 Data Collection and Visualization.*
 
 ---
 
@@ -37,4 +27,4 @@ Three pieces of the same system, built as separate services rather than one mono
 
 ---
 
-Open to software, backend, data, and cloud engineering roles.
+Open to software, backend, data, machine learning, IT, technical writing, cloud engineering and game dev roles.
