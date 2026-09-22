@@ -10,9 +10,9 @@ Back-end and data engineering - pipelines, storage, search. CS senior at Appalac
 
 **[dl-forecasting-classification-keras](https://github.com/rayar93/dl-forecasting-classification-keras)** - Two deep learning pipelines: bias correction of NOAA National Water Model streamflow forecasts (GRU, LSTM), and building damage classification from post-hurricane UAV imagery (MobileNet transfer learning). Reproducing the damage paper's methodology surfaced data leakage in its original evaluation split. *Team Project - CS 4440 Artificial Intelligence.*
 
-**[ml-classification-regression-sklearn](https://github.com/rayar93/ml-classification-regression-sklearn)** - Two end-to-end pipelines: 4-class student performance classification (Logistic Regression, 54.4% accuracy) and auction verification regression (Random Forest, R²=0.991). scikit-learn, GridSearchCV, 10-fold CV. *Team Project - CS 4440 Artificial Intelligence.*
+**[ml-classification-regression-sklearn](https://github.com/rayar93/ml-classification-regression-sklearn)** - Two end-to-end pipelines: 4-class student performance classification (Logistic Regression, 54.4% accuracy) and auction verification regression (Random Forest, R²=0.991). scikit-learn, GridSearchCV, 10-fold CV. *Team project - CS 4440 Artificial Intelligence.*
 
-**[asset-flip-game](https://github.com/rayar93/asset-flip-game)** - A 2D side-scrolling platformer in Godot 4. Real-time physics, state-driven enemy AI, and signal-driven event architecture across five playable levels. *Team Project - CS 4800 Capstone Project.*
+**[asset-flip-game](https://github.com/rayar93/asset-flip-game)** - A 2D side-scrolling platformer in Godot 4. Real-time physics, state-driven enemy AI, and signal-driven event architecture across five playable levels. *Team project - CS 4800 Capstone Project.*
 
 **[opencritic-scraper-analyzer](https://github.com/rayar93/opencritic-scraper-analyzer)** - Scrapes 10,000 OpenCritic titles and carries them through cleaning, exploration, and modeling in a single pipeline. Parses robots.txt at runtime and honors the published crawl-delay instead of hardcoding a rate. Percent-of-critics-recommend alone explains most of the critic score (R²=0.74); adding review count and release year moves it only to 0.75. Selenium, Protego, pandas, matplotlib, scikit-learn. *Solo project - CS 3435 Data Collection and Visualization.*
 
