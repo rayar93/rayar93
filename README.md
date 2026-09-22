@@ -2,10 +2,6 @@
 
 Back-end and data engineering - pipelines, storage, search. CS senior at Appalachian State, graduating December 2026. Greenville, SC.
 
-Most of what I build comes back to sorting and organizing the mounds of personal data I've accumulated over a rich digital life: photos, journals, listening 
-history, things I meant to read, things I mean to cook. Taken together they are an interesting indexing problem - deduplication, embeddings, schema design 
-across incompatible sources, and getting all of it to run cheaply enough to keep running as a personal project.
-
 ---
 
 ## Projects
