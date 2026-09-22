@@ -34,7 +34,7 @@ Three pieces of the same system, built as separate services rather than one mono
 
 ## Stack
 
-- **Languages** - Python, Java, SQL, JavaScript, GDScript
+- **Languages** - Python, Java, SQL, JavaScript, GDScript, C, C++
 - **Cloud** - GCP (Cloud Run, Cloud SQL, Pub/Sub, Eventarc, Cloud Build, Artifact Registry, GKE)
 - **Data** - Postgres, SQLite, Firestore, pandas, scikit-learn, Keras
 - **Other** - Spring Boot, Flask, Docker, Kubernetes, ROS 2, Git, Linux
