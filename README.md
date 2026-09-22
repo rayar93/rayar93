@@ -12,7 +12,7 @@ across incompatible sources, and getting all of it to run cheaply enough to keep
 
 **[game-score-aggregator-cloud-run](https://github.com/rayar93/game-score-aggregator-cloud-run)** - Aggregates and normalizes critic and user scores from IGDB, Steam, and Metacritic into a single weighted ranking across 300,000+ titles. Handles rate limits and title reconciliation across sources with incompatible scales. Cloud Run over Cloud SQL Postgres, scheduled ingestion via Cloud Run Jobs and Cloud Scheduler. *Team project - CS 3537 Cloud Computing.*
 
-**[post-hurricane-aerial-damage-assessment](https://github.com/rayar93/post-hurricane-aerial-damage-assessment)** - UAV imagery damage classification. Reproducing the source paper's methodology surfaced data leakage in the original evaluation split. *Team Project - CS 4440 Artificial Intelligence.*
+**[dl-forecasting-classification-keras](https://github.com/rayar93/dl-forecasting-classification-keras)** - Two deep learning pipelines: bias correction of NOAA National Water Model streamflow forecasts (GRU, LSTM), and building damage classification from post-hurricane UAV imagery (MobileNet transfer learning). Reproducing the damage paper's methodology surfaced data leakage in its original evaluation split. *Team Project - CS 4440 Artificial Intelligence.*
 
 **[ml-classification-regression-sklearn](https://github.com/rayar93/ml-classification-regression-sklearn)** - Two end-to-end pipelines: 4-class student performance classification (Logistic Regression, 54.4% accuracy) and auction verification regression (Random Forest, R²=0.991). scikit-learn, GridSearchCV, 10-fold CV. *Team Project - CS 4440 Artificial Intelligence.*
 
